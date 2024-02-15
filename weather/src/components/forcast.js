@@ -75,7 +75,7 @@ function Forcast() {
   };
 
   useEffect(() => {
-    search("Delhi");
+    search("Hyderabad");
   }, []);
 
   console.log(weather.weather,'qqqqw')
